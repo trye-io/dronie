@@ -8,7 +8,7 @@ drone.takeoff()
 
 drone.move_forward(30)
 
-drone.move_back(50)
+drone.move_back(30)
 
 drone.rotate_clockwise(30)
 
