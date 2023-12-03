@@ -12,4 +12,10 @@
 
 ## Рівень 2
 
+- 📱 Створюємо застосунок і працюємо з клавішою ліворуч: [0-event.py](https://github.com/trye-io/dronie/blob/main/level-2/0-event.py)
+- 💨 Додаємо змінну, яка містить швидкість ліворуч-праворуч: [1-variable.py](https://github.com/trye-io/dronie/blob/main/level-2/1-variable.py)
+- ⌨️ Додаємо керування іншими клавішами [2-all-buttons.py](https://github.com/trye-io/dronie/blob/main/level-2/2-all-buttons.py)
+- 🚁 Відправляємо нові швидкості на дрон [3-send-to-drone.py](https://github.com/trye-io/dronie/blob/main/level-2/3-send-to-drone.py)
+
+
 ## Рівень 3
