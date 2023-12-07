@@ -12,6 +12,8 @@
 
 ## Рівень 2
 
+**Відео у YouTube:** [https://youtu.be/K3aKzGvPacY](https://youtu.be/K3aKzGvPacY)
+
 - 📱 Створюємо застосунок і працюємо з клавішою ліворуч: [0-event.py](https://github.com/trye-io/dronie/blob/main/level-2/0-event.py)
 - 💨 Додаємо змінну, яка містить швидкість ліворуч-праворуч: [1-variable.py](https://github.com/trye-io/dronie/blob/main/level-2/1-variable.py)
 - ⌨️ Додаємо керування іншими клавішами [2-all-buttons.py](https://github.com/trye-io/dronie/blob/main/level-2/2-all-buttons.py)
@@ -19,3 +21,9 @@
 
 
 ## Рівень 3
+
+**Відео у YouTube:** TBA
+
+- 📺 Отримуємо зображення з дрону: [1-streaming.py](https://github.com/trye-io/dronie/blob/main/level-3/1-streaming.py)
+- 💪 Покращюємо зображення: [1-fixed-streaming.py](https://github.com/trye-io/dronie/blob/main/level-3/1-fixed-streaming.py)
+- 📈 Виводимо показники на екран [3-info.py](https://github.com/trye-io/dronie/blob/main/level-3/3-info.py)
