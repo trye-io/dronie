@@ -25,5 +25,5 @@
 **Відео у YouTube:** TBA
 
 - 📺 Отримуємо зображення з дрону: [1-streaming.py](https://github.com/trye-io/dronie/blob/main/level-3/1-streaming.py)
-- 💪 Покращюємо зображення: [1-fixed-streaming.py](https://github.com/trye-io/dronie/blob/main/level-3/1-fixed-streaming.py)
+- 💪 Покращюємо зображення: [1-fixed-streaming.py](https://github.com/trye-io/dronie/blob/main/level-3/2-fixed-streaming.py)
 - 📈 Виводимо показники на екран [3-info.py](https://github.com/trye-io/dronie/blob/main/level-3/3-info.py)
